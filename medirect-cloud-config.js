@@ -1,0 +1,2 @@
+window.MEDIRECT_SUPABASE_URL  = 'https://gwbiqklircyxmydaaazd.supabase.co';
+window.MEDIRECT_SUPABASE_ANON = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd3Ymlxa2xpcmN5eG15ZGFhYXpkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk5OTg2OTMsImV4cCI6MjA5NTU3NDY5M30.KOid7H6jb_qXrokOz_IUsFgaRhn10koHvXfaSEi-qFM';
